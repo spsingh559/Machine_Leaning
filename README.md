@@ -8,7 +8,7 @@ Sklearn
 matplot
 
 #Scenerio :
-For given data of Experiance and Salary, need to train Algorithm to learn the corelationa and then predict the Salary based on unseen data or new data.
+For given data of Experiance and Salary, need to train Algorithm to learn the corelation and then predict the Salary based on unseen data or new data.
 
 https://user-images.githubusercontent.com/20536576/32781039-86ddab74-c969-11e7-9b1c-7ae888858a7f.png
 
