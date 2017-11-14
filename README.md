@@ -10,12 +10,16 @@ matplot
 #Scenerio :
 For given data of Experiance and Salary, need to train Algorithm to learn the corelationa and then predict the Salary based on unseen data or new data.
 
+https://user-images.githubusercontent.com/20536576/32781039-86ddab74-c969-11e7-9b1c-7ae888858a7f.png
+
 #Solution:
 Step1 : Data preprocess using sklearn and panda
 
 Step2: used LinearRegression algorithm
 
 Step3: plot graph using matplot to show correctness of system.
+
+https://user-images.githubusercontent.com/20536576/32781060-9b1cd7ea-c969-11e7-8fb1-9c063072d9b2.png
 
 #Run:
 Clone repositiry
