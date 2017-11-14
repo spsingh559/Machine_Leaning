@@ -1,0 +1,7 @@
+,question,old intent,new intent,comments
+2,210/30a-4X is operated by?,Equity,Operator,intent identified is incorrect
+6,What is the appliance used in BD06?,Azimuth,Rig,intent for appliance used for drilling is rig
+10,Where is the hydrocarbon located for well 210/30a-4X?,TotalDepth,SourceHydrocarbons,incorrect intent
+13,When was the well 210/29c-5 spudded?,AllData,SpudDate,intent for the question is spud date
+14,Tell me all the details of 210/30a-4X well?,TargetTolerance,AllData,intent should be AllData
+16,What is the angular measurement of 210/29c-5?,Rig,Azimuth,wrong intent
